@@ -1,3 +1,5 @@
 
-vspeed = -2;
 
+if(global.dois_jogadores == true){
+	vspeed = -vel;
+}

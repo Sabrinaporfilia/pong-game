@@ -7,9 +7,13 @@ incremento_velocidade = 0.5;
 randomise()
 
 //Fazendo a bola andar no jogo
-speed = velocidade;
+speed = 0;
 
 direction = choose(45, 135, 225, 315)
+
+alarm[0] = 120
+
+
 
 
 

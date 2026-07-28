@@ -1,3 +1,6 @@
 
 //Parando de mover quando soltar a tecla
-vspeed = 0;
+
+if(global.dois_jogadores == true){
+	vspeed = 0
+}
