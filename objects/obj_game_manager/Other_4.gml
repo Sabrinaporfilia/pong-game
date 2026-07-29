@@ -1,1 +1,1 @@
-audio_play_sound(snd_jogo, 10, false)
+audio_play_sound(snd_jogo, 10, true)
