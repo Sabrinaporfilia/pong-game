@@ -1,4 +1,5 @@
-global.dois_jogadores = true;
+global.dois_jogadores = false;
 global.velocidade_bola = 0;
-global.golplayer1 = 0;
-global.golplayer2 = 0;
+global.gol_player1 = 0;
+global.gol_player2 = 0;
+global.gol_max = 2;

@@ -38,6 +38,8 @@
   },
   "name":"Pong",
   "resources":[
+    {"id":{"name":"obj_bnt_play","path":"objects/obj_bnt_play/obj_bnt_play.yy",},},
+    {"id":{"name":"obj_bnt_players","path":"objects/obj_bnt_players/obj_bnt_players.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
@@ -53,7 +55,6 @@
     {"id":{"name":"snd_jogo","path":"sounds/snd_jogo/snd_jogo.yy",},},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},},
     {"id":{"name":"spr_botao_sel","path":"sprites/spr_botao_sel/spr_botao_sel.yy",},},
-    {"id":{"name":"spr_botao_sel2","path":"sprites/spr_botao_sel2/spr_botao_sel2.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
     {"id":{"name":"spr_gol","path":"sprites/spr_gol/spr_gol.yy",},},
     {"id":{"name":"spr_olho","path":"sprites/spr_olho/spr_olho.yy",},},
@@ -64,8 +65,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

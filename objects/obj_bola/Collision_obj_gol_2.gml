@@ -1,4 +1,4 @@
-global.golplayer1 += 1;
+global.gol_player1 += 1;
 
 x = xstart
 y = ystart
